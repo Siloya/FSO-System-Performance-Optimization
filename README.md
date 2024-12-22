@@ -28,6 +28,6 @@ pip install -r requirements.txt
 This project is licensed under the MIT License.
 
 ## **Contributors**
-- [jinan Charafeddine](mailto:jinan.charafeddine@devinci.fr)
+- [Jinan Charafeddine](mailto:jinan.charafeddine@devinci.fr)
 - [Najah Tartoussi](mailto:najahtartoussi30@gmail.com)
-
+- [Bouchra Tartoussi](mailto:bouchratartoussi@gmail.com)
