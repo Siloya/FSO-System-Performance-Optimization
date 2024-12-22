@@ -30,4 +30,6 @@ This project is licensed under the MIT License.
 ## **Contributors**
 - [Jinan Charafeddine](mailto:jinan.charafeddine@devinci.fr)
 - [Najah Tartoussi](mailto:najahtartoussi30@gmail.com)
+- [Wafaa swhakir](mailto:wafaa.shakir@devinici.fr)
 - [Bouchra Tartoussi](mailto:bouchratartoussi@gmail.com)
+- [Baraa eltayeblrafei](mailto:baraa.eltayeblrafei@isae.edu.lb)
